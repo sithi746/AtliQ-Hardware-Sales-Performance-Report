@@ -92,5 +92,9 @@ The dashboard uses a **Snowflake-schema** for multi-dimensional analysis:
 - **Top Customer yoy growth:** Nova 2664.9%
 - **High-Growth Divisions:** PC +313.7%, P&A +221.5%  
 - **Top Products:** AQ mx nb, AQ Smash 2  
-- Recommendations: improve forecasting, scale high-performing products, rationalize underperformers, invest strategically in top divisions  
+- Recommendations: improve forecasting, scale high-performing products, rationalize underperformers, invest strategically in top divisions
+
+
+## Conclusion
+In 2021, AtliQ Hardware achieved remarkable growth, fueled by expanding customer reach, successful new products, and strong digital sales channels. While the company demonstrates excellent market scalability, closing performance gaps and optimizing product and regional results will be essential to maintain sustainable long-term growth.
 
