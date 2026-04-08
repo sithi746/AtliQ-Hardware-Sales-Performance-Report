@@ -63,10 +63,10 @@ The dashboard uses a **Snowflake-schema** for multi-dimensional analysis:
  
 
 ### Business Impact & Insights
-- **Revenue:** $598.9M (+204.5% YoY)  
+- **Revenue:** $598.9M (+304.5% YoY)  
 - **Top Markets:** India $161.3M, USA $87.8M  
-- **Top Customers:** Amazon $82.1M, AtliQ e-Store $53M  
+- **Top Customer yoy growth:** Nova 2664.9%
 - **High-Growth Divisions:** PC +313.7%, P&A +221.5%  
-- **Top Products:** AQ Electron 4 3600, AQ Smash 2  
+- **Top Products:** AQ mx nb, AQ Smash 2  
 - Recommendations: improve forecasting, scale high-performing products, rationalize underperformers, invest strategically in top divisions  
 
