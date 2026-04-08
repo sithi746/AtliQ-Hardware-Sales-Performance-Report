@@ -87,7 +87,7 @@ The dashboard uses a **Snowflake-schema** for multi-dimensional analysis:
  
 
 ### Business Impact & Insights
-- **Revenue:** $598.9M ![Screenshot](https://github.com/username/repo/blob/main/images/Screenshot%202026-04-08%20201018.png?raw=true)
+- **Revenue:** $598.9M ![Revenue Screenshot](Screenshot%202026-04-08%20201018.png)
 - **Top Markets:** India $161.3M, USA $87.8M  
 - **Top Customer yoy growth:** Nova 2664.9%
 - **High-Growth Divisions:** PC +313.7%, P&A +221.5%  
