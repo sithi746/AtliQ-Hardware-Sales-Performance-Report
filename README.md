@@ -39,7 +39,7 @@ This dashboard transforms raw sales and target data into a **structured, actiona
 ##  Data Model
 The dashboard uses a **Snowflake-schema** for multi-dimensional analysis:  
 
-![Data Model](https://github.com/sithi746/AtliQ-Hardware-Sales-Performance-Report/blob/main/README.md)  
+![Data Model](https://github.com/sithi746/AtliQ-Hardware-Sales-Performance-Report/blob/main/Data-model.png)  
 *Fact tables link to normalized dimensions for efficient querying and comparisons.*  
 
 ---
