@@ -43,8 +43,25 @@ The dashboard uses a **Snowflake-schema** for multi-dimensional analysis:
 *Fact tables link to normalized dimensions for efficient querying and comparisons.*  
 
 ---
+##  Measures Created
+net_sales
+=SUM(fact_sales_monthly[net_sales_amount])
+net_sales_19
+=CALCULATE([net_sales], dim_date[fy]="2019")
+net_sales_20
+=CALCULATE([net_sales], dim_date[fy]="2020")
+net_sales_21
+=CALCULATE([net_sales], dim_date[fy]="2021")
+target_21
+=SUM(ns_targets_2021[ns_target])
+2021-Target
+=[net_sales_21]-[target_21]
+21_vs_20
+=DIVIDE([net_sales_21]-[net_sales_20], [net_sales_20], 0)
+%
+=DIVIDE([2021-Target],[target_21], 0)
 
-##  Features / Highlights
+##  Features 
 
 ### Business Problem
 - Disconnected data across multiple sources  
