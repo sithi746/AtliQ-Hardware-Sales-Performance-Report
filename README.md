@@ -3,7 +3,7 @@
 ---
 
 ## 
-**AtliQ Hardware Sales Dashboard** – Monitor sales performance across markets, customers, products, and divisions to uncover growth opportunities and performance gaps.  
+**AtliQ Hardware Sales Report** – Monitor sales performance across markets, customers, products, and divisions to uncover growth opportunities and performance gaps.  
 
 ---
 
