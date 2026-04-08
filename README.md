@@ -20,7 +20,7 @@ This dashboard transforms raw sales and target data into a **structured, actiona
 - **Data Modeling & Transformation:** Excel Power Query, Power Pivot  
 - **Analytics & Reporting:** DAX, Power BI / Excel  
 - **Data Storage:** Fact & Dimension tables (Snowflake schema)  
-- **Visualization:** Power BI charts, KPIs, slicers  
+
 
 ---
 
