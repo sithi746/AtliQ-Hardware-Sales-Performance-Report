@@ -44,21 +44,28 @@ The dashboard uses a **Snowflake-schema** for multi-dimensional analysis:
 
 ---
 ##  Measures Created
-net_sales
+1. net_sales
 =SUM(fact_sales_monthly[net_sales_amount])
-net_sales_19
+
+2. net_sales_19
 =CALCULATE([net_sales], dim_date[fy]="2019")
-net_sales_20
+
+3. net_sales_20
 =CALCULATE([net_sales], dim_date[fy]="2020")
-net_sales_21
+
+4. net_sales_21
 =CALCULATE([net_sales], dim_date[fy]="2021")
-target_21
+
+5. target_21
 =SUM(ns_targets_2021[ns_target])
-2021-Target
+
+6. 2021-Target
 =[net_sales_21]-[target_21]
-21_vs_20
+
+7. 21_vs_20
 =DIVIDE([net_sales_21]-[net_sales_20], [net_sales_20], 0)
-%
+
+8. %
 =DIVIDE([2021-Target],[target_21], 0)
 
 ##  Features 
